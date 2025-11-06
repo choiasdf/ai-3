@@ -78,8 +78,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "texts": ["T1", "리그오브레전드", "프로게이머"],
        "images": [ "https://news.vocofm.com/wp-content/uploads/2023/11/faker-1024x760.jpg"],
        "videos": ["https://www.youtube.com/watch?v=5D79eqZPiws]
-     },
-}
+     },}
 
 # ======================
 # 유틸
