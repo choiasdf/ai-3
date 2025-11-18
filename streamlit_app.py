@@ -75,10 +75,26 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
      labels[0]: {
+       "texts": ["KT", "리그오브레전드", "프로게이머"],
+       "images": [ "https://i.namu.wiki/i/qEo6ZHmuRue7-_CQaNDr0xYIeZO0mx8p3WerxXjFThjho3ZGG3BP_7BcZQv6uCNwoTor8BN7CVWes1-CM8qpig.webp"],
+       "videos": ["hhttps://www.youtube.com/shorts/iX_JoJID6zU"]
+     },
+     labels[1]: {
+       "texts": ["Gen", "리그오브레전드", "프로게이머"],
+       "images": [ "https://i.namu.wiki/i/9WTdkyYnbZFBbFdbiCftp3H_JEXk9h9ICPAGR3SkbemnXtWzhNWic6pH66pUgCyNpDHHM6PcTgBM3Wl9GiGV0w.webp"],
+       "videos": ["https://www.youtube.com/shorts/oE5MZJPXoRA"]
+     },
+
+     labels[2]: {
        "texts": ["T1", "리그오브레전드", "프로게이머"],
        "images": [ "https://news.vocofm.com/wp-content/uploads/2023/11/faker-1024x760.jpg"],
        "videos": ["https://www.youtube.com/watch?v=5D79eqZPiws"]
      },}
+
+}
+
+    
+}
 
 # ======================
 # 유틸
